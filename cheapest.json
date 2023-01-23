@@ -1,0 +1,50 @@
+[{
+    "id" : 1,
+    "src" : "/cityImage.png",
+    "city" : "Hyderabad",
+    "date": "Sun, 28 Nov",
+    "fare" : "₹1874"
+},
+{
+    "id" : 2,
+    "src" : "/cityImage1.png",
+    "city" : "Bengaluru",
+    "date": "Sun, 28 Nov",
+    "fare" : "₹1957"
+},
+{
+    "id" : 3,
+    "src" : "/cityImage2.png",
+    "city" : "Jaipur",
+    "date": "Mon, 27 Jan",
+    "fare" : "₹1998"
+},
+{
+    "id" : 4,
+    "src" : "/cityImage3.png",
+    "city" : "Chandigarh",
+    "date": "Thu, 15 Dec",
+    "fare" : "₹1999"
+},
+{
+    "id" : 5,
+    "src" : "/cityImage4.png",
+    "city" : "Dehradun",
+    "date": "Sun, 27 Nov",
+    "fare" : "₹2490"
+},
+{
+    "id" : 6,
+    "src" : "/cityImage5.png",
+    "city" : "Prayagraj",
+    "date": "Tue, 29 Nov",
+    "fare" : "₹2499"
+},
+{
+    "id" : 7,
+    "src" : "/cityImage.png",
+    "city" : "Dehradun",
+    "date": "Sun, 27 Nov",
+    "fare" : "₹2490"
+}
+]
